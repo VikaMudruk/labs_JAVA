@@ -1,4 +1,4 @@
-package edu.nmu.victoriia.lab2;
+package main.java.lab2;
 
 import java.util.Random;
 import java.util.Scanner;

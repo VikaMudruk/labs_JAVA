@@ -1,0 +1,477 @@
+{
+  "title": "NTU-DP",
+  "headmaster": {
+    "firstName": "Anton",
+    "lastName": "Smith",
+    "patronymic": "Yuryevich",
+    "sex": "INTERSEX"
+  },
+  "substructures": [
+    {
+      "title": "faculty#2",
+      "headmaster": {
+        "firstName": "Marina",
+        "lastName": "Jackson",
+        "patronymic": "Anatolyevich",
+        "sex": "MALE"
+      },
+      "substructures": [
+        {
+          "title": "department#9",
+          "headmaster": {
+            "firstName": "Anton",
+            "lastName": "Evans",
+            "patronymic": "Anatolyevich",
+            "sex": "FEMALE"
+          },
+          "substructures": [
+            {
+              "title": "Group#9",
+              "headmaster": {
+                "firstName": "William",
+                "lastName": "Sosura",
+                "patronymic": "Vladimirovich",
+                "sex": "MALE"
+              },
+              "substructures": [
+                {
+                  "firstName": "Danil",
+                  "lastName": "Sirko",
+                  "patronymic": "Anatolyevich",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Karina",
+                  "lastName": "Kopeykin",
+                  "patronymic": "Anatolyevich",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Karina",
+                  "lastName": "Kopeykin",
+                  "patronymic": "Anatolyevich",
+                  "sex": "INTERSEX"
+                }
+              ]
+            },
+            {
+              "title": "Group#2",
+              "headmaster": {
+                "firstName": "Daria",
+                "lastName": "Shevchenko",
+                "patronymic": "Aleksandrovich",
+                "sex": "INTERSEX"
+              },
+              "substructures": [
+                {
+                  "firstName": "Anton",
+                  "lastName": "Kopeykin",
+                  "patronymic": "Vladimirovich",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Vlad",
+                  "lastName": "Smith",
+                  "patronymic": "Aleksandrovich",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Oleg",
+                  "lastName": "Adams",
+                  "patronymic": "Yuryevich",
+                  "sex": "INTERSEX"
+                }
+              ]
+            },
+            {
+              "title": "Group#5",
+              "headmaster": {
+                "firstName": "Anastasiya",
+                "lastName": "Adams",
+                "patronymic": "Vladimirovich",
+                "sex": "FEMALE"
+              },
+              "substructures": [
+                {
+                  "firstName": "Anastasiya",
+                  "lastName": "Sirko",
+                  "patronymic": "Victorovich",
+                  "sex": "INTERSEX"
+                },
+                {
+                  "firstName": "Nazar",
+                  "lastName": "Kopeykin",
+                  "patronymic": "Anatolyevich",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "William",
+                  "lastName": "Evans",
+                  "patronymic": "Victorovich",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Denis",
+                  "lastName": "Sirko",
+                  "patronymic": "Mycolaevich",
+                  "sex": "INTERSEX"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "department#7",
+          "headmaster": {
+            "firstName": "Oleg",
+            "lastName": "Jackson",
+            "patronymic": "Vladimirovich",
+            "sex": "MALE"
+          },
+          "substructures": [
+            {
+              "title": "Group#7",
+              "headmaster": {
+                "firstName": "Denis",
+                "lastName": "Adams",
+                "patronymic": "Mycolaevich",
+                "sex": "INTERSEX"
+              },
+              "substructures": [
+                {
+                  "firstName": "Anastasiya",
+                  "lastName": "Sirko",
+                  "patronymic": "Yuryevich",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Marina",
+                  "lastName": "Jackson",
+                  "patronymic": "Aleksandrovich",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "title": "Group#0",
+              "headmaster": {
+                "firstName": "Nazar",
+                "lastName": "Smith",
+                "patronymic": "Aleksandrovich",
+                "sex": "FEMALE"
+              },
+              "substructures": [
+                {
+                  "firstName": "Anton",
+                  "lastName": "Shevchenko",
+                  "patronymic": "Mycolaevich",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "William",
+                  "lastName": "Petrov",
+                  "patronymic": "Victorovich",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Max",
+                  "lastName": "Evans",
+                  "patronymic": "Vladimirovich",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "title": "Group#3",
+              "headmaster": {
+                "firstName": "Oleg",
+                "lastName": "Adams",
+                "patronymic": "Victorovich",
+                "sex": "INTERSEX"
+              },
+              "substructures": [
+                {
+                  "firstName": "Nazar",
+                  "lastName": "Petrov",
+                  "patronymic": "Mycolaevich",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Nazar",
+                  "lastName": "Evans",
+                  "patronymic": "Anatolyevich",
+                  "sex": "FEMALE"
+                }
+              ]
+            },
+            {
+              "title": "Group#4",
+              "headmaster": {
+                "firstName": "Vlad",
+                "lastName": "Evans",
+                "patronymic": "Victorovich",
+                "sex": "MALE"
+              },
+              "substructures": [
+                {
+                  "firstName": "Vlad",
+                  "lastName": "Smith",
+                  "patronymic": "Victorovich",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Marina",
+                  "lastName": "Petrov",
+                  "patronymic": "Victorovich",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Anton",
+                  "lastName": "Evans",
+                  "patronymic": "Anatolyevich",
+                  "sex": "INTERSEX"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "faculty#8",
+      "headmaster": {
+        "firstName": "Marina",
+        "lastName": "Shevchenko",
+        "patronymic": "Vladimirovich",
+        "sex": "INTERSEX"
+      },
+      "substructures": [
+        {
+          "title": "department#4",
+          "headmaster": {
+            "firstName": "Danil",
+            "lastName": "Kopeykin",
+            "patronymic": "Anatolyevich",
+            "sex": "INTERSEX"
+          },
+          "substructures": [
+            {
+              "title": "Group#8",
+              "headmaster": {
+                "firstName": "Anton",
+                "lastName": "Adams",
+                "patronymic": "Victorovich",
+                "sex": "FEMALE"
+              },
+              "substructures": [
+                {
+                  "firstName": "Anastasiya",
+                  "lastName": "Jackson",
+                  "patronymic": "Aleksandrovich",
+                  "sex": "INTERSEX"
+                },
+                {
+                  "firstName": "Karina",
+                  "lastName": "Smith",
+                  "patronymic": "Victorovich",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "William",
+                  "lastName": "Adams",
+                  "patronymic": "Anatolyevich",
+                  "sex": "INTERSEX"
+                }
+              ]
+            },
+            {
+              "title": "Group#6",
+              "headmaster": {
+                "firstName": "Denis",
+                "lastName": "Smith",
+                "patronymic": "Victorovich",
+                "sex": "FEMALE"
+              },
+              "substructures": [
+                {
+                  "firstName": "Nazar",
+                  "lastName": "Smith",
+                  "patronymic": "Vladimirovich",
+                  "sex": "INTERSEX"
+                },
+                {
+                  "firstName": "William",
+                  "lastName": "Sosura",
+                  "patronymic": "Anatolyevich",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Daria",
+                  "lastName": "Petrov",
+                  "patronymic": "Victorovich",
+                  "sex": "INTERSEX"
+                }
+              ]
+            },
+            {
+              "title": "Group#4",
+              "headmaster": {
+                "firstName": "Nazar",
+                "lastName": "Shevchenko",
+                "patronymic": "Aleksandrovich",
+                "sex": "MALE"
+              },
+              "substructures": [
+                {
+                  "firstName": "Karina",
+                  "lastName": "Evans",
+                  "patronymic": "Yuryevich",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Samuel",
+                  "lastName": "Sosura",
+                  "patronymic": "Anatolyevich",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Oleg",
+                  "lastName": "Jackson",
+                  "patronymic": "Yuryevich",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "title": "Group#0",
+              "headmaster": {
+                "firstName": "Karina",
+                "lastName": "Smith",
+                "patronymic": "Anatolyevich",
+                "sex": "INTERSEX"
+              },
+              "substructures": [
+                {
+                  "firstName": "Oleg",
+                  "lastName": "Sosura",
+                  "patronymic": "Anatolyevich",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Oleg",
+                  "lastName": "Shevchenko",
+                  "patronymic": "Victorovich",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Nazar",
+                  "lastName": "Jackson",
+                  "patronymic": "Yuryevich",
+                  "sex": "INTERSEX"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "department#2",
+          "headmaster": {
+            "firstName": "Daria",
+            "lastName": "Evans",
+            "patronymic": "Victorovich",
+            "sex": "INTERSEX"
+          },
+          "substructures": [
+            {
+              "title": "Group#8",
+              "headmaster": {
+                "firstName": "Danil",
+                "lastName": "Sirko",
+                "patronymic": "Vladimirovich",
+                "sex": "FEMALE"
+              },
+              "substructures": [
+                {
+                  "firstName": "William",
+                  "lastName": "Sosura",
+                  "patronymic": "Yuryevich",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Vlad",
+                  "lastName": "Smith",
+                  "patronymic": "Victorovich",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Anastasiya",
+                  "lastName": "Adams",
+                  "patronymic": "Yuryevich",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Samuel",
+                  "lastName": "Sirko",
+                  "patronymic": "Anatolyevich",
+                  "sex": "INTERSEX"
+                }
+              ]
+            },
+            {
+              "title": "Group#2",
+              "headmaster": {
+                "firstName": "Karina",
+                "lastName": "Petrov",
+                "patronymic": "Vladimirovich",
+                "sex": "INTERSEX"
+              },
+              "substructures": [
+                {
+                  "firstName": "Oleg",
+                  "lastName": "Evans",
+                  "patronymic": "Yuryevich",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Max",
+                  "lastName": "Petrov",
+                  "patronymic": "Mycolaevich",
+                  "sex": "INTERSEX"
+                },
+                {
+                  "firstName": "Daria",
+                  "lastName": "Smith",
+                  "patronymic": "Mycolaevich",
+                  "sex": "FEMALE"
+                }
+              ]
+            },
+            {
+              "title": "Group#1",
+              "headmaster": {
+                "firstName": "Vlad",
+                "lastName": "Adams",
+                "patronymic": "Aleksandrovich",
+                "sex": "FEMALE"
+              },
+              "substructures": [
+                {
+                  "firstName": "William",
+                  "lastName": "Shevchenko",
+                  "patronymic": "Victorovich",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Daria",
+                  "lastName": "Smith",
+                  "patronymic": "Victorovich",
+                  "sex": "FEMALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
